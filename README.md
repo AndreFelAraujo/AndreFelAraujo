@@ -1,7 +1,7 @@
-<h1 align="center">Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
+<h1 align="center">Oie, seja bem-vindo(a) ao meu perfil! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Aprendendo+Spring+Boot;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Aprendendo+Spring+Boot;Em+constante+evolução+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,9 +9,8 @@
 ### 🚀 Sobre mim
 
 - 🎓 Atualmente estudando **Java** e **Spring Boot**
-- 💻 Focado em construir aplicações back-end robustas e escaláveis
-- 🌱 Em constante evolução — sempre aprendendo algo novo
-- 📫 Como me encontrar: *adicione aqui seu LinkedIn, e-mail ou outro contato*
+- 💻 Focado em aplicações back-end robustas e escaláveis
+- 🌱 Sempre aprendendo algo novo
 
 ---
 
