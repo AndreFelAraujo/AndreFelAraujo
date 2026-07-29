@@ -29,23 +29,16 @@
 
 ---
 
-### 📚 Estudando agora
-
-- ☕ Java (OOP, Collections, Streams, Java 17+)
-- 🌿 Spring Boot (REST APIs, Spring Data JPA, Spring Security)
-
-### 🎯 Próximos passos no roadmap
-
-- 🔐 Spring Security + JWT / OAuth2
-- 🧩 Arquitetura em camadas e Clean Architecture
-- 🧪 Testes automatizados (JUnit 5, Mockito, Testcontainers)
-- 🐳 Docker e Docker Compose para ambientes de desenvolvimento
-- 🐘 Bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB, Redis)
-- 📨 Mensageria (Kafka ou RabbitMQ)
-- ☁️ Cloud básico (AWS ou GCP) e deploy de aplicações Spring Boot
-- 🧱 Microsserviços (Spring Cloud, service discovery, API Gateway)
-- ⚙️ CI/CD (GitHub Actions)
-- 📈 Observabilidade (logs, métricas, Actuator, Prometheus/Grafana)
+🛠️ Tecnologias e Ferramentas
+<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+💻 Linguagens
+<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+🌟 Interesses
+<p align="left"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+🧑‍💻 IDEs
+<p align="left"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
+🗄️ Bancos de Dados
+<p align="left"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
 
 ---
 
