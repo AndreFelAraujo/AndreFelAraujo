@@ -50,20 +50,8 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" alt="Top Langs" />
-</p>
-
+🔗 Conecte-se comigo
+<p align="center"> <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/andreFelAraujo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:andrefeliparaujo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/dreinthechannel" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-
 ---
 
 <p align="center">💡 "Código bom é aquele que qualquer pessoa consegue entender."</p>
