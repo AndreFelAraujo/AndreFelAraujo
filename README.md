@@ -1,7 +1,7 @@
 <h1 align="center">Oie, meu nome é André Araujo! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Aprendendo+Spring+Boot;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Aprendendo+Spring+Boot+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
